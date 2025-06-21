@@ -7,7 +7,8 @@ This Power BI project provides a detailed analysis of sales, customer behavior, 
 
 ## 🔗 Dashboard PDF Link
 
-[📥 View PDF Dashboard](./My Resume.pdf)  
+[📥 View PDF Dashboard]([📄 View PDF Report](https://github.com/sathishkumarj03/zomato-order-and-restaurant-analysis/raw/main/My%20Resume.pdf)
+)  
 <!-- Replace the above URL with your actual PDF link -->
 
 ## 🧰 Tools & Technologies
