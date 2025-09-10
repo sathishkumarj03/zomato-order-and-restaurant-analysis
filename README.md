@@ -160,7 +160,7 @@ DISTINCTCOUNT('ZOMATO'[area])
 
 ## 📥 Dashboard PDF
 [📄 Click here to view the full dashboard (PDF)](https://github.com/sathishkumarj03/zomato-order-and-restaurant-analysis/raw/main/My%20Resume.pdf)  
-*(Replace `your-username` with your GitHub username and update file name if changed)*
+
 
 ---
 
